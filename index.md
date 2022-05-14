@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to fanpeng blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+欢迎！这是一个测试！
